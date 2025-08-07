@@ -13,10 +13,10 @@
 go.work
 *.iml
 .idea
-.vscode
-.env
 
 # go-corset specific
 bin
 *.lt
 *.bin
+config.bat
+node_modules
